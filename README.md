@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&text=👋안녕하세요,%20백엔드개발자%20박두환입니다!%20&fontSize=40&animation=twinkling)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&ColorList=10&height=200&text=👋안녕하세요,%20백엔드개발자%20박두환입니다!%20&fontSize=25&animation=twinkling&fontAlign=68&fontAlignY=45" width="100%" />
+
 
 저는 **백엔드 개발자**를 준비하고 있지만, **프론트엔드**와 **서버 사이드 개발**도 능숙하게 다룰 수 있습니다. <br>확장성과 성능을 고려한 시스템을 만드는 것을 좋아하며, 전체 기술 스택에서의 작업에 익숙합니다.
 
