@@ -43,7 +43,7 @@
 
 ## 💻 **Frontend 개발경험**
 
-- **Languages**: JavaScript, TypeScript, HTML5, CSS3
+- **Languages**: React, TypeScript, HTML5, CSS3
 - **Frameworks / Libraries**:
   - **React**: 컴포넌트 기반 UI 설계 및 상태 관리 (Hooks, Context API)
   - **React Router**: 페이지 간 라우팅 관리
